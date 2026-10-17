@@ -1,151 +1,258 @@
-# Hiruni Praboda — Personal Portfolio & Engineering Resume
+# Hiruni Praboda | Software Engineering Portfolio
+
+<h2 align="center">Software Engineering Undergraduate | Full-Stack Development & AI</h2>
 
 <p align="center">
-  <img src="assets/hiruni.png" alt="Hiruni Praboda" width="200" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(168, 85, 247, 0.4);" />
-</p>
-
-<h2 align="center">Software Engineer · Full-Stack & AI</h2>
-
-<p align="center">
-  <em>“Building intelligent, user-focused digital experiences through software engineering and AI — open to opportunities to learn, innovate, and make an impact.”</em>
+  Building reliable, intelligent, and user-focused software solutions through full-stack development, thoughtful engineering, and AI-powered technologies.
 </p>
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%C2%B7%20Internships%20%26%20Jobs-22c55e?style=for-the-badge" alt="Status Badge"/></a>
-  <a href="#-academic-background"><img src="https://img.shields.io/badge/CGPA-3.64%20%2F%204.0-f59e0b?style=for-the-badge" alt="CGPA Badge"/></a>
-  <a href="#-technical-toolkit"><img src="https://img.shields.io/badge/Specialization-Full--Stack%20%26%20AI-8b5cf6?style=for-the-badge" alt="Specialization Badge"/></a>
-  <a href="Hiruni-Praboda-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-ec4899?style=for-the-badge&logo=adobeacrobatreader" alt="Resume Badge"/></a>
+  <a href="https://github.com/hirunipraboda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hiruni-udumulla">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hirunipraboda728@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-7C3AED?style=flat-square" alt="Areas of Focus" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-I am a **third-year Software Engineering undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)**, passionate about engineering modern web applications, distributed systems, and intelligent digital experiences. My technical work spans full-stack web and mobile development, RESTful API architecture, database management, and AI service integration.
+I am a **Software Engineering undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)** with a passion for building scalable web applications, intelligent software systems, and user-friendly digital experiences.
 
-Through projects such as **TruthLens**, an automated AI hallucination detection system, I have gained hands-on experience in building scalable end-to-end architectures, implementing natural language processing pipelines, and pairing robust backend solutions with responsive UI/UX designs.
+My technical interests span frontend and backend development, RESTful API design, database management, mobile application development, software testing, and AI integration. I enjoy exploring emerging technologies, solving engineering problems, and turning ideas into practical software solutions.
 
-- 🎓 **Education:** BSc (Hons) in Information Technology — Software Engineering Specialization · SLIIT
-- 📊 **Academic Standing:** Current **CGPA: 3.64 / 4.0**
-- 🔬 **Current Role:** Research Assistant at SLIIT (August 2026 – Present)
-- 💼 **Career Status:** Open to Work · Available for Internships & Full-Time Software Engineering Roles
-- 🌐 **Work Mode:** Onsite, Hybrid & Remote (Based in Sri Lanka, Available Worldwide)
+Currently, I contribute to software development and research as a Research Assistant at SLIIT while continuing to strengthen my technical and professional skills.
+
+- 🎓 **Education:** BSc (Hons) in Information Technology — Software Engineering Specialization
+- 🔬 **Current Role:** Research Assistant at SLIIT
+- 💻 **Interests:** Full-Stack Development, Artificial Intelligence, Software Architecture, and Cloud Technologies
+- 🏆 **Achievement:** Dean's List Award — Year 1, Semester 2
+- 💼 **Career Interests:** Software Engineering Internships and Graduate Software Engineering Opportunities
+- 🌍 **Location:** Sri Lanka
 
 ---
 
-## 🔬 Work Experience
+## 💼 Work Experience
 
-### **Research Assistant**
+### Research Assistant
+
 **Sri Lanka Institute of Information Technology (SLIIT)**  
 *August 2026 – Present*
 
-- Contributing to the architecture and development of an intelligent software application designed to improve first-year university students’ English language proficiency and speaking capabilities.
-- Designing and implementing interactive learning features that assist students in strengthening academic communication and professional English competency.
-- Collaborating on scalable software solutions that enhance students' confidence in English speaking, preparing them for academic presentations and workplace communication.
+- Contribute to the architecture and development of an intelligent software application designed to improve first-year university students' English language proficiency and speaking skills.
+- Support the development of interactive learning features that help students strengthen their academic communication and professional English competency.
+- Collaborate on software solutions designed to build students' confidence in spoken English and prepare them for academic presentations and workplace communication.
 
 ---
 
-## 🎓 Academic Background
+## 🎓 Education
 
-### **BSc (Hons) in Information Technology — Software Engineering Specialization**
-**Sri Lanka Institute of Information Technology (SLIIT)** | *2023 – Present*
-- **Current CGPA:** 3.64 / 4.0
-- **Core Coursework:** Data Structures & Algorithms, Object-Oriented Programming (Java), Software Architecture, Distributed Computing, Database Management Systems, Machine Learning, Web Technologies, Mobile Application Development.
+### BSc (Hons) in Information Technology
 
-### **Advanced Level — Physical Science Stream**
+**Software Engineering Specialization**  
+Sri Lanka Institute of Information Technology (SLIIT) | 2023 – Present
+
+- **Current CGPA:** 3.64 / 4.00
+- **Relevant Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Software Architecture, Distributed Computing, Database Management Systems, Machine Learning, Web Technologies, and Mobile Application Development.
+
+### Advanced Level — Physical Science Stream
+
 *2021 – 2023*
-- **Subjects:** Combined Mathematics, Physics, Information Technology
-- Developed analytical logic, algorithm design, and computational foundations.
+
+- **Subjects:** Combined Mathematics, Physics, and Information Technology.
+- Developed analytical thinking, logical reasoning, and problem-solving skills.
 
 ---
 
-## 🏅 Awards & Honors
+## 🏆 Awards & Recognition
 
-### **Dean’s List Award — Year 1, Semester 2**
+### Dean's List Award — Year 1, Semester 2
+
 **Sri Lanka Institute of Information Technology (SLIIT)**
-> *Recognized for outstanding academic performance and excellence during the first year, second semester of the Software Engineering degree program.*
+
+Recognized for academic performance during the first year, second semester of the degree programme.
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ Tech Stack
 
-### 🎨 Frontend Engineering
-- **Languages & Frameworks:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Vite, React Router, Flutter
-- **UI/UX & Design:** Responsive UI Design, Glassmorphism, Micro-animations, CSS Grid & Flexbox, Figma
+### 🎨 Frontend Development
 
-### ⚙️ Backend & Database
-- **Server Technologies:** Node.js, Express.js, TypeScript, Java, Spring Boot, ASP.NET Core
-- **APIs & Security:** RESTful APIs, JWT Authentication, Postman, Swagger / OpenAPI
-- **Databases & ORMs:** PostgreSQL, MySQL, Supabase, Prisma ORM, MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,flutter&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite and Flutter" />
+</p>
 
-### 🤖 AI, Testing & DevOps
-- **AI & Machine Learning:** Python, Natural Language Processing (NLP), Google Gemini API, LangGraph, Pandas, NumPy, Scikit-learn, NLTK
-- **Testing & QA:** pytest, React Testing Library, Flutter Testing, xUnit, Moq
-- **Tools & Cloud:** Git, GitHub, Docker, Vercel, Render, Linux, Agile / Scrum workflows
+### ⚙️ Backend Development & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,cs,dotnet,python,fastapi,flask&perline=8" alt="Node.js, Express, Java, Spring, C sharp, .NET, Python, FastAPI and Flask" />
+</p>
+
+Additional technologies: RESTful APIs, JWT Authentication, Swagger / OpenAPI, and Postman.
+
+### 🗄️ Databases & Data Management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma&perline=8" alt="PostgreSQL, MySQL, MongoDB, Supabase and Prisma" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&perline=8" alt="Python, TensorFlow and Scikit-learn" />
+</p>
+
+Additional technologies: Google Gemini API, LangGraph, Natural Language Processing (NLP), Pandas, NumPy, and NLTK.
+
+### 🧪 Testing & Quality Assurance
+
+- **Backend Testing:** xUnit, Moq
+- **AI Testing:** pytest
+- **Frontend Testing:** React Testing Library
+- **Mobile Testing:** Flutter Testing
+- **Practices:** API testing, integration testing, and software quality assurance
+
+### 🔧 Tools, Design & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode,vercel&perline=8" alt="Git, GitHub, Docker, Linux, Postman, Figma, VS Code and Vercel" />
+</p>
+
+Additional tools and practices: Agile / Scrum, CI/CD fundamentals, Render, and collaborative software development.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. **TruthLens: AI Hallucination Detection & Verification System**
-- **Tech Stack:** Python, NLP & LLMs, FastAPI, React.js
-- **Highlights:** An end-to-end fact verification system engineered to cross-reference statements against multi-source evidence databases, providing confidence scoring and hallucination mitigation for LLM-generated outputs.
+### 1. TruthLens — AI Hallucination Detection & Verification System
 
-### 2. **NexaPay: Digital Banking & Multi-Currency Crypto Platform**
-- **Tech Stack:** TypeScript, Web3.js, Express.js, Tailwind CSS
-- **Highlights:** A decentralized multi-currency banking and cryptocurrency interface featuring transaction visualizers, peer-to-peer transfers, and biometric security considerations.
+**Technologies:** Python, NLP, Large Language Models, FastAPI, React.js
 
-### 3. **Med-AI: Clinical Diagnostic Intelligence Dashboard**
-- **Tech Stack:** React.js, Python Flask, PostgreSQL, TensorFlow
-- **Highlights:** Clinical decision-support dashboard offering automated biomarker trend predictions, medical imaging trajectory visualizers, and health evaluation models.
+An AI-powered fact-verification system designed to evaluate generated statements against supporting evidence and help identify potentially inaccurate or hallucinated AI outputs.
+
+**Key Features & Focus Areas**
+
+- AI-generated statement verification.
+- Evidence-based fact checking.
+- Confidence scoring and hallucination mitigation.
+- Integration of AI services with a user-facing application.
+
+**Repository:** [TruthLens — Add the exact repository URL](https://github.com/hirunipraboda)
+
+### 2. NexaPay — Digital Banking & Multi-Currency Platform
+
+**Technologies:** TypeScript, Web3.js, Express.js, Tailwind CSS
+
+A digital banking and cryptocurrency platform concept focused on multi-currency interactions and modern financial user experiences.
+
+**Key Features & Focus Areas**
+
+- Transaction visualisation.
+- Peer-to-peer transfer workflows.
+- Multi-currency interface design.
+- Security-conscious user experience considerations.
+
+**Repository:** [NexaPay — Add the exact repository URL](https://github.com/hirunipraboda)
+
+### 3. Med-AI — Clinical Diagnostic Intelligence Dashboard
+
+**Technologies:** React.js, Python Flask, PostgreSQL, TensorFlow
+
+A healthcare-oriented dashboard concept exploring the use of machine learning and data visualisation to support the presentation of clinical information.
+
+**Key Features & Focus Areas**
+
+- Clinical data visualisation.
+- Biomarker trend analysis.
+- Machine learning integration.
+- Healthcare-focused dashboard design.
+
+**Repository:** [Med-AI — Add the exact repository URL](https://github.com/hirunipraboda)
+
+> **Note:** Replace the placeholder repository links with the exact project URLs. Ensure all descriptions and listed features accurately reflect the implemented functionality.
 
 ---
 
-## 🏆 Leadership, Hackathons & Volunteering
+## 📊 GitHub Analytics
 
-- 🛠️ **DevOps Workshop Participant** — *MS Club of SLIIT*: Explored modern DevOps workflows, containerization, and automation practices.
-- ⚡ **CodeJam Hackathon Participant** — *SESC of SLIIT*: Applied rapid problem-solving, algorithmic thinking, and collaborative software development.
-- 🚀 **Mini Hackathon Participant** — *MS Club of SLIIT*: Engineered software prototypes under strict hackathon deadlines with an agile team.
-- 💜 **Active Volunteer** — *FSCS*: Actively volunteered in university community initiatives, technical workshops, and student events.
-- 📖 **Study Support Session Facilitator** — *FCSC*: Facilitated peer-assisted learning sessions to support fellow undergraduates in core technical subjects.
-- 🛡️ **Batch Representative** — *SLIIT*: Represented student cohort feedback, coordinated academic schedules, and facilitated clear communication between students and faculty.
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hirunipraboda&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    alt="Hiruni's GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirunipraboda&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Most Used Programming Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=hirunipraboda&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hirunipraboda&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🤝 Leadership, Activities & Volunteering
+
+- **DevOps Workshop Participant — MS Club of SLIIT:** Participated in a workshop focused on DevOps concepts and practices.
+- **CodeJam Hackathon Participant — SESC of SLIIT:** Participated in a collaborative hackathon involving software development and problem-solving.
+- **Mini Hackathon Participant — MS Club of SLIIT:** Took part in a short-format hackathon focused on collaborative prototyping.
+- **Active Volunteer — FSCS:** Contributed to student community activities and initiatives.
+- **Study Support Session Facilitator — FCSC:** Conducted a peer-learning session to support fellow undergraduates.
+- **Batch Representative — SLIIT:** Represented student feedback and facilitated communication between students and academic staff.
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="Hiruni-Praboda-Resume.pdf">
+    <img
+      src="https://img.shields.io/badge/Download_My_Resume-PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      alt="Download Resume"
+    />
+  </a>
+</p>
+
+Download my resume to learn more about my education, technical skills, projects, and experience.
+
+> Ensure `Hiruni-Praboda-Resume.pdf` exists in the repository root. Update the link if your PDF uses a different filename.
 
 ---
 
 ## 📬 Connect With Me
 
-- 🌐 **Portfolio Website:** [Live locally on `http://localhost:3000`](http://localhost:3000)
-- 💼 **LinkedIn:** [linkedin.com/in/hiruni-udumulla](https://www.linkedin.com/in/hiruni-udumulla)
-- 💻 **GitHub:** [@hirunipraboda](https://github.com/hirunipraboda)
-- ✉️ **Email:** [hirunipraboda728@gmail.com](mailto:hirunipraboda728@gmail.com)
-- 📞 **Phone / WhatsApp:** [+94 71 487 2297](tel:+94714872297)
-- 📄 **Curriculum Vitae:** [Download Hiruni-Praboda-Resume.pdf](Hiruni-Praboda-Resume.pdf)
-
----
-
-## 💻 Running the Portfolio Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/hirunipraboda/hirunipraboda.git
-   cd hirunipraboda
-   ```
-
-2. **Start a local development server:**
-   ```bash
-   # Using Python 3
-   python -m http.server 3000
-
-   # Or using Node.js npx serve
-   npx serve .
-   ```
-
-3. **Open in your browser:**
-   ```
-   http://localhost:3000
-   ```
-
----
 <p align="center">
-  <sub>Designed & Built by <strong>Hiruni Praboda</strong> · Software Engineer</sub>
+  <a href="https://github.com/hirunipraboda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hiruni-udumulla">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hirunipraboda728@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed and maintained by <strong>Hiruni Praboda</strong></sub>
 </p>
