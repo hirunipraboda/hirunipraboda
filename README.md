@@ -202,12 +202,15 @@ A healthcare-oriented dashboard concept exploring the use of machine learning an
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hirunipraboda&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-    width="95%"
-  />
+  <a href="https://github.com/hirunipraboda">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=hirunipraboda&theme=tokyo-night"
+      alt="GitHub Contribution Activity Graph"
+      width="95%"
+    />
+  </a>
 </p>
+
 
 ---
 
