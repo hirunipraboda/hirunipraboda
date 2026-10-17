@@ -184,7 +184,7 @@ A healthcare-oriented dashboard concept exploring the use of machine learning an
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=hirunipraboda&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
-    alt="Hiruni's GitHub Statistics"
+    alt="GitHub Statistics"
     height="180"
   />
   <img
@@ -203,13 +203,10 @@ A healthcare-oriented dashboard concept exploring the use of machine learning an
 
 <p align="center">
   <a href="https://github.com/hirunipraboda">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=hirunipraboda&theme=tokyo-night"
-      alt="GitHub Contribution Activity Graph"
-      width="95%"
-    />
+    View my GitHub profile and contribution history →
   </a>
 </p>
+
 
 
 ---
