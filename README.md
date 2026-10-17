@@ -1,4 +1,4 @@
-# Hiruni Praboda | Software Engineering Portfolio
+# 👋 Hello, I am Hiruni Praboda
 
 <h2 align="center">Software Engineering Undergraduate | Full-Stack Development & AI</h2>
 
@@ -143,7 +143,7 @@ An AI-powered fact-verification system designed to evaluate generated statements
 - Confidence scoring and hallucination mitigation.
 - Integration of AI services with a user-facing application.
 
-**Repository:** [TruthLens — Add the exact repository URL](https://github.com/hirunipraboda)
+**Repository:** [View my GitHub repositories](https://github.com/hirunipraboda)
 
 ### 2. NexaPay — Digital Banking & Multi-Currency Platform
 
@@ -158,7 +158,7 @@ A digital banking and cryptocurrency platform concept focused on multi-currency 
 - Multi-currency interface design.
 - Security-conscious user experience considerations.
 
-**Repository:** [NexaPay — Add the exact repository URL](https://github.com/hirunipraboda)
+**Repository:** [View my GitHub repositories](https://github.com/hirunipraboda)
 
 ### 3. Med-AI — Clinical Diagnostic Intelligence Dashboard
 
@@ -173,9 +173,9 @@ A healthcare-oriented dashboard concept exploring the use of machine learning an
 - Machine learning integration.
 - Healthcare-focused dashboard design.
 
-**Repository:** [Med-AI — Add the exact repository URL](https://github.com/hirunipraboda)
+**Repository:** [View my GitHub repositories](https://github.com/hirunipraboda)
 
-> **Note:** Replace the placeholder repository links with the exact project URLs. Ensure all descriptions and listed features accurately reflect the implemented functionality.
+> Replace the repository links with the exact project URLs and ensure the descriptions accurately reflect the implemented functionality.
 
 ---
 
@@ -203,9 +203,9 @@ A healthcare-oriented dashboard concept exploring the use of machine learning an
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hirunipraboda&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hirunipraboda&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
     alt="GitHub Contribution Activity Graph"
-    width="100%"
+    width="95%"
   />
 </p>
 
@@ -235,7 +235,7 @@ A healthcare-oriented dashboard concept exploring the use of machine learning an
 
 Download my resume to learn more about my education, technical skills, projects, and experience.
 
-> Ensure `Hiruni-Praboda-Resume.pdf` exists in the repository root. Update the link if your PDF uses a different filename.
+
 
 ---
 
