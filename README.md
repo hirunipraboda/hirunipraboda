@@ -230,20 +230,11 @@ A dedicated public transit web platform engineered for Sri Lanka Railways commut
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Contribution Activity
 
-<div align="center">
-
-<!-- Generated automatically using GitHub Actions -->
-<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" width="98%"/>
-
-<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repository" width="49%"/>
-<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Commit Languages" width="49%"/>
-
-<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Statistics" width="49%"/>
-<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/github-whale-contributions.svg" alt="Hiruni's Animated Whale GitHub Contribution Graph" width="100%" />
+</p>
 
 ---
 
