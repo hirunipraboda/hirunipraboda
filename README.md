@@ -1,28 +1,28 @@
+
 <div align="center">
 
 # 👋 Hello, I am Hiruni Praboda
 
 ### Software Engineering Undergraduate · Full-Stack Development · AI
 
-<p>
-  I build practical software experiences by combining thoughtful engineering,<br/>
-  modern web technologies, and AI-powered solutions.
-</p>
+I build practical software experiences by combining thoughtful engineering,  
+modern web technologies, and AI-powered solutions.
 
-<p>
-  <a href="https://github.com/hirunipraboda">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hiruni-udumulla">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hirunipraboda728@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://hirunipraboda.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/hirunipraboda">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/hiruni-udumulla">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:hirunipraboda728@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI-8B5CF6?style=flat-square" alt="Full-Stack and AI"/>
-<img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-0EA5E9?style=flat-square" alt="Sri Lanka"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI-8B5CF6?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-0EA5E9?style=flat-square" alt="Location"/>
 
 </div>
 
@@ -87,13 +87,13 @@ Recognized for academic performance during the first year, second semester of th
 ### 🎨 Frontend & Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,flutter&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite and Flutter"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,flutter&perline=8" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend Development & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,cs,dotnet,python,fastapi,flask&perline=8" alt="Node.js, Express, Java, Spring, C sharp, .NET, Python, FastAPI and Flask"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,cs,dotnet,python,fastapi,flask&perline=8" alt="Backend Technologies"/>
 </p>
 
 **Additional Technologies:** RESTful APIs, JWT Authentication, Swagger / OpenAPI, and Postman.
@@ -101,13 +101,13 @@ Recognized for academic performance during the first year, second semester of th
 ### 🗄️ Databases & Data Management
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma&perline=8" alt="PostgreSQL, MySQL, MongoDB, Supabase and Prisma"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma&perline=8" alt="Databases"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&perline=8" alt="Python, TensorFlow and Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&perline=8" alt="AI and Machine Learning"/>
 </p>
 
 **Additional Technologies:** Google Gemini API, LangGraph, Natural Language Processing (NLP), Pandas, NumPy, and NLTK.
@@ -123,7 +123,7 @@ Recognized for academic performance during the first year, second semester of th
 ### 🔧 Tools, Design & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode,vercel&perline=8" alt="Git, GitHub, Docker, Linux, Postman, Figma, VS Code and Vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode,vercel&perline=8" alt="Development Tools"/>
 </p>
 
 **Additional Tools & Practices:** Agile / Scrum, CI/CD fundamentals, Render, and collaborative software development.
@@ -146,7 +146,7 @@ An AI-powered verification platform designed to detect, analyze, and verify hall
 - Confidence scoring and hallucination mitigation risk metrics.
 - Production architecture with decoupled Node.js/Express backend on Render and cross-platform React Native client.
 
-🔗 **Repository:** [AI-Hallucination-Detection-and-Verification-System](https://github.com/hirunipraboda/AI-Hallucination-Detection-and-Verification-System) · 🌐 **Live API:** [Render Deployment](https://ai-hallucination-detection-and.onrender.com)
+🔗 **Repository:** [AI-Hallucination-Detection-and-Verification-System](https://github.com/hirunipraboda/AI-Hallucination-Detection-and-Verification-System)
 
 ### 02 · SmartFold — Laundry Operations & Management System
 
@@ -210,7 +210,7 @@ A full-stack smart tourism ecosystem that combines destination discovery, person
 - Route and financial optimization calculating inter-city transit sequences, travel duration, and budget feasibility.
 - Production multi-service cloud architecture deployed live on Render (Frontend, Web API, and AI worker nodes).
 
-🔗 **Repository:** [tourism-planner](https://github.com/hirunipraboda/tourism-planner) · 🌐 **Live App:** [Frontend](https://tourism-planner-frontend.onrender.com) · 📑 **API:** [Swagger Docs](https://tourism-planner-api.onrender.com/swagger)
+🔗 **Repository:** [tourism-planner](https://github.com/hirunipraboda/tourism-planner)
 
 ### 06 · TrainTrack Sri Lanka — Railway Passenger Platform
 
@@ -226,7 +226,7 @@ A dedicated public transit web platform engineered for Sri Lanka Railways commut
 - Multi-dimensional passenger review system (Punctuality, Cleanliness, Comfort, Staff) with MongoDB aggregation metrics.
 - Production deployment on Render with React 18 frontend and Node.js/Express backend connected to MongoDB Atlas.
 
-🔗 **Repository:** [traintrack-web](https://github.com/hirunipraboda/traintrack-web) · 🌐 **Live App:** [Web Platform](https://sef-hackathon-23-1.onrender.com) · 📡 **Live API:** [Backend API](https://sef-hackathon-23.onrender.com)
+🔗 **Repository:** [traintrack-web](https://github.com/hirunipraboda/traintrack-web)
 
 ---
 
@@ -234,23 +234,14 @@ A dedicated public transit web platform engineered for Sri Lanka Railways commut
 
 <div align="center">
 
-<a href="https://github.com/hirunipraboda">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hirunipraboda&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Statistics"/>
-</a>
+<!-- Generated automatically using GitHub Actions -->
+<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" width="98%"/>
 
-<a href="https://github.com/hirunipraboda">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirunipraboda&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Programming Languages"/>
-</a>
+<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repository" width="49%"/>
+<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Commit Languages" width="49%"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=hirunipraboda&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<a href="https://github.com/hirunipraboda?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
-</a>
+<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Statistics" width="49%"/>
+<img src="https://raw.githubusercontent.com/hirunipraboda/hirunipraboda/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%"/>
 
 </div>
 
@@ -276,8 +267,6 @@ A dedicated public transit web platform engineered for Sri Lanka Railways commut
 </a>
 
 </div>
-
-Place `Hiruni-Praboda-Resume.pdf` in the repository root, or update the link to match your actual filename.
 
 ---
 
