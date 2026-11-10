@@ -41,3 +41,4 @@ jobs:
           publish_dir: ./dist
           keep_files: false
           commit_message: "Update animated whale contribution graph [skip ci]"
+

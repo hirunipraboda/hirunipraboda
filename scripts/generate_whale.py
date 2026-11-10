@@ -441,3 +441,4 @@ if __name__ == "__main__":
         "dist/github-whale-contributions.svg"
     ]
     generate_whale_svg(user, paths)
+
